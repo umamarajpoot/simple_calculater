@@ -22,3 +22,4 @@ else if(answer.operater === "MULTLIPICATION"){
 }
 else{"please select correct operater "}
  
+console.log('THE AND');
